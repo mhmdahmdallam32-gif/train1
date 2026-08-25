@@ -1,0 +1,6 @@
+{
+  "name": "قطار الأعداد - Number Train",
+  "description": "تطبيق ويب تقدمي (PWA) تفاعلي لتعليم الرياضيات والقيمة المكانية وصيغ الأعداد للأطفال من خلال رحلة قطار تعليمية ممتعة مع أوسمة وتحديات ومؤثرات صوتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
